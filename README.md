@@ -74,9 +74,14 @@ mengatur operasi CRUD sesuai dengan HTTP Method yang digunakan.
 ---
 
 ## G. Evidence Pengujian
-Bukti pengujian endpoint CRUD (POST, GET, PUT, DELETE) disimpan dalam folder:
+Pengujian endpoint dilakukan menggunakan HTTP Request Shortcuts dengan server dummy (httpbin.org) untuk mensimulasikan request dan response REST API. Hal ini dilakukan karena pengerjaan menggunakan perangkat mobile tanpa menjalankan server secara lokal. Struktur endpoint, method HTTP, header, dan payload telah disesuaikan dengan desain API pada modul praktikum.
 
-/evidence
+![Uploading 1000281294.jpg…]()
+![1000281293](https://github.com/user-attachments/assets/d605f9a5-70b3-4716-bf35-4488150d2d64)
+![1000281292](https://github.com/user-attachments/assets/b4f4928e-fa58-4005-b63c-aa5ba381a240)
+![1000281274](https://github.com/user-attachments/assets/fb411dea-7cb3-49ad-b603-c95e1e5260dd)
+![1000281250](https://github.com/user-attachments/assets/7aaec372-b0fb-4051-bad6-4f2d27b7706c)
+
 
 ---
 
